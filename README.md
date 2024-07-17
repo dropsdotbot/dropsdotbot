@@ -1,4 +1,8 @@
-## Hi there 👋
+## AirdropHunt(dot)fun 🪂
+airdrophunt.fun is the most advanced airdrop checker and tracker.
+
+Check and track any crypto wallet address for unclaimed airdrops, get Telegram alerts on eligibility and never miss an airdrop again!
+
 
 <!--
 **AirdropHuntFun/airdrophuntfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

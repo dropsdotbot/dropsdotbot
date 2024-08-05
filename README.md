@@ -1,5 +1,5 @@
-## Drops Bot 🪂
-drops.bot is the most advanced airdrop checker and tracker.
+## drops.bot 🪂
+drops (dot) bot is the most advanced airdrop checker and tracker.
 
 Check and track any crypto wallet address for unclaimed airdrops, get Telegram alerts on eligibility and never miss an airdrop again!
 
